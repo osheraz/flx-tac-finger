@@ -1,7 +1,9 @@
+
 # FlX Finger 
 
+<img src="pics/finger.png" width=50% height=50% align="center">
+
 This page provides instructions and design files for manufacturing the FlX finger.
-<img src="pics/finger.png" width=50% height=50%>
 
 ## Background
 FlX finger is a low-cost tactile finger. FlX finger is mostly fabricated through 3D printing and is based on the design of the distal finger link of the Model-T42 hand [1]. The FlX finger is composed of four parts seen in the figure above: finger body, contact pad, Force Sensitive Resistor (FSR) sensor and sensor socket. The finger body is connected to the contact pad solely through a flexible joint. In addition, the sensor socket with the FSR are positioned fixed to the finger body. At such configuration, the FSR is in contact with a small bulge on the back side of the contact pad.
