@@ -41,7 +41,7 @@ All design files can be found in `cad` repo.\
 1. **Print parts**: Print `FingerBody.stl` and `SensorSocket.stl` in PLA using 3D printer. 
 2. **Mix silicone** : Mix your silicone according to the manufacturer requirements, we used Smooth-On's silicone, which are easy to use without any vacuum degassing requirement. Mix enough Mold Star silicone ( equal amount A:B) to fill the shell of the `FingerBody`.
 3. **Pour silicone**: slowly pour the silicone into the shell of the `FingerBody`. Let the silicone rest for approximtly 3 hours.
-4.  **Wall removal**: Carfully remove the thin-walled molds of the  `FingerBody` using a small utility knife.
+4.  **Wall removal**: Carefully remove the thin-walled molds of the  `FingerBody` using a small utility knife.
 5. **Glue FSR**: Position& glue the FSR 400 short into the  `SensorSocket`.
 6. **Attach insert**: Attach M2 heat insert at the bottom of the  `FingerBody` .
 7.  **Wire**: Wire the FSR sensor to an analog pin of the Arduino Nano through a voltage divider of 4.7k$\Omega$ resistor.
