@@ -34,7 +34,7 @@ FSR sensors are made of polymer films that vary their electrical resistance upon
 2.  Ease Release 200 (not mandatory)
 
 ##  Procedure
-All design files can be found in `cad` repo.
+All design files can be found in `cad` repo.\
 <img src="pics/proc.jpeg" width=50% height=50% align="center">
 
 1. **Print parts**: Print `FingerBody.stl` and `SensorSocket.stl` in PLA using 3D printer. 
