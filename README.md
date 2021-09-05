@@ -14,21 +14,21 @@ FSR sensors are made of polymer films that vary their electrical resistance upon
 
 ## Required Materials
 ### Design files
-1. FingerBody.STEP
-2. SensorSocket.STEP
-3. 
+1. FingerBody.stl
+2. SensorSocket.stl
+
 ### Electrical
 
 1. Arduino Nano  
 2. FSR 400 short by interlink electronics       
-3.  4.7k$\Omega$ resistor X 2  
-4.  Wires
+3. 4.7k$\Omega$ resistor   
+4. Wires
 5. USB Cable
 6. 2-Pin Female cable
 
 ### Chemicals
 1.  Smooth-On Mold Star / Silicones, Inc. XP-565  or any related
-2.   Ease Release 200 ( Not mandatory)
+2.  Ease Release 200 (not mandatory)
 
 ##  Procedure
 All design files can be found in `cad` repo.
