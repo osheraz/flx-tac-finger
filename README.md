@@ -1,9 +1,9 @@
 # SOMENAME 
 
-This page provides instructions and design files for manufacturing the SOMENAME.
+This page provides instructions and design files for manufacturing the FlX finger.
 
 ## Background
-SOMENAME is a low-cost tactile finger . SOMENAME is mostly fabricated through 3D printing and is based on the design of the distal finger link of the Model-T42 hand [1]. The SOMENAME is composed of four parts seen in the figure above: finger body, contact pad, Force Sensitive Resistor (FSR) sensor and sensor socket. The finger body is connected to the contact pad solely through a flexible joint. In addition, the sensor socket with the FSR are positioned fixed to the finger body. At such configuration, the FSR is in contact with a small bulge on the back side of the contact pad.
+FlX finger is a low-cost tactile finger. FlX finger is mostly fabricated through 3D printing and is based on the design of the distal finger link of the Model-T42 hand [1]. The FlX finger is composed of four parts seen in the figure above: finger body, contact pad, Force Sensitive Resistor (FSR) sensor and sensor socket. The finger body is connected to the contact pad solely through a flexible joint. In addition, the sensor socket with the FSR are positioned fixed to the finger body. At such configuration, the FSR is in contact with a small bulge on the back side of the contact pad.
 
 ## Force Sensitive Resistor (FSR)
 
@@ -43,7 +43,7 @@ All design files can be found in `cad` repo.
 
 # Test
 To acquire somewhat repeatability of measurements, leveling screws on the back side of the finger body are used to vary the height of the sensor socket and, thus, tune the initial voltage on the FSR. By standard, we tune the initial voltage $V_o$ with a weight of 100 grams directly placed on the contact pad when in an horizontal posture.
-We test the characteristic force distribution of the SOMENAME, we have designed an experiment using a six degrees-of-freedom robotic arm equipped with a Force/Torque sensor and a rigid pole at its tip. During the experiment, the pole was pushed against the finger with predefined forces between $0-10~N$ and at 50 equal length locations along the contact pad. Results for SOMENAME with $V_o= 200 [mV]$ are seen in    `test` repo. 
+We test the characteristic force distribution of the FlX finger, we have designed an experiment using a six degrees-of-freedom robotic arm equipped with a Force/Torque sensor and a rigid pole at its tip. During the experiment, the pole was pushed against the finger with predefined forces between $0-10~N$ and at 50 equal length locations along the contact pad. Results for FlX finger with $V_o= 200 [mV]$ are seen in    `test` repo. 
 
 ## Reference
 
