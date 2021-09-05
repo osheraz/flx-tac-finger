@@ -35,7 +35,7 @@ FSR sensors are made of polymer films that vary their electrical resistance upon
 
 ##  Procedure
 All design files can be found in `cad` repo.
-<img src="pics/procedure.png" width=50% height=50% align="center">
+<img src="pics/procedure.jpeg" width=50% height=50% align="center">
 
 1. **Print parts**: Print `FingerBody.stl` and `SensorSocket.stl` in PLA using 3D printer. 
 2. **Mix silicone** : Mix your silicone according to the manufacturer requirements, we used Smooth-On's silicone, which are easy to use without any vacuum degassing requirement. Mix enough Mold Star silicone ( equal amount A:B) to fill the shell of the `FingerBody`
