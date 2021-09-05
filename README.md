@@ -1,4 +1,4 @@
-# SOMENAME 
+# FlX Finger 
 
 This page provides instructions and design files for manufacturing the FlX finger.
 
