@@ -1,4 +1,4 @@
-# Signal distribution charachtrization
+# Signal distribution characterization
 <img src="position.png" width=30% height=30% align="center">
 <img src="params.png" width=30% height=30% align="center">
 <img src="Configuration.png" width=70% height=70% align="center">
