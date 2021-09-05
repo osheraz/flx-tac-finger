@@ -24,7 +24,7 @@ FSR sensors are made of polymer films that vary their electrical resistance upon
 
 1. Arduino Nano  
 2. FSR 400 short by interlink electronics       
-3. 4.7k$\Omega$ resistor   
+3. 4.7 kΩ resistor   
 4. Wires
 5. USB Cable
 6. 2-Pin Female cable
